@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Grand Hotel Management & Experience",
+  "description": "A comprehensive hotel management system featuring real-time room booking, service requests, and a 'Nano Banana' powered AI image editor for room customization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
